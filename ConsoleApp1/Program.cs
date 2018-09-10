@@ -12,6 +12,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("My Branch");
 
+            Console.WriteLine("Stage");
+
             Console.ReadLine();
 
         }

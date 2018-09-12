@@ -12,6 +12,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("My Branch");
 
+            Console.WriteLine("Here My Test");
+
             Console.WriteLine("Stage");
 
             Console.WriteLine("B1..2");

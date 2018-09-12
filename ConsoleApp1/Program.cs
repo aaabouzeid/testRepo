@@ -15,9 +15,9 @@ namespace ConsoleApp1
             Console.WriteLine("Stage");
 
             Console.WriteLine("B1");
-
+               
             Console.ReadLine();
-
+             
         }
     }
 }
